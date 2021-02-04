@@ -70,7 +70,7 @@ function setTransform3D (el, degree, perspective, z) {
         imgs[j].style.transition = 'transform .4s ease, margin-left .4s ease, -webkit-filter .4s ease'
       }
   
-      el.style.overflowX = 'hidden'
+      //el.style.overflowX = 'hidden'
       el.style.backgroundColor = bgColor
   
       var titleBox = document.createElement('SPAN')

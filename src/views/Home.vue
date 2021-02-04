@@ -21,8 +21,8 @@ export default {
 </script>
 
 <style>
-/* .home {
+.home {
     background-color: rgb(204,204,204);
     height:100%;
-} */
+}
 </style>
